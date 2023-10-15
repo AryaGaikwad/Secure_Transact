@@ -12,12 +12,14 @@ By combining these neural network architectures with NLP, **Secure_Transact** NL
 ____
 
 ## Features of the Secure_Transact:
-<b>Weak Password Detection:</b> We use NLP to identify and flag weak or commonly-used passwords, enhancing the security of user accounts.
+<ul>
+<li><b>Weak Password Detection:</b> We use NLP to identify and flag weak or commonly-used passwords, enhancing the security of user accounts. </li>
 
-<b>XXS Injection Detection:</b> Our NLP models can recognize and block potential XXS (Cross-Site Scripting) injection attempts, preventing these common web vulnerabilities.
+<li><b>XXS Injection Detection:</b> Our NLP models can recognize and block potential XXS (Cross-Site Scripting) injection attempts, preventing these common web vulnerabilities.</li>
 
-<b>Malicious URL Detection:</b> The project includes a mechanism to identify malicious URLs, providing a layer of protection against harmful links.
+<li><b>Malicious URL Detection:</b> The project includes a mechanism to identify malicious URLs, providing a layer of protection against harmful links.</li>
 
-<b>Phishing URL Detection:</b> CyberGuard NLP can identify phishing URLs, helping users avoid deceptive websites.
+<li><b>Phishing URL Detection:</b> CyberGuard NLP can identify phishing URLs, helping users avoid deceptive websites.</li>
 
-<b>Credit card fraud detection:</b>  Check the transactions on website to identify any fraud payments 
+<li><b>Credit card fraud detection:</b>  Check the transactions on website to identify any fraud payments </li>
+</ul>
