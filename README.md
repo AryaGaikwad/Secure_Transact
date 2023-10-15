@@ -5,5 +5,5 @@
  Main aims:
  <ul>
   <li> To navigate only to a safe website which is detected by our NLP algorithm</li>
-  <li> Record the transactions on website to identify any fraud payments</li>
+  <li> Check the transactions on website to identify any fraud payments</li>
  </ul>
