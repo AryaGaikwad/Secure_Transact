@@ -7,3 +7,13 @@
   <li> To navigate only to a safe website which is detected by our NLP algorithm</li>
   <li> Check the transactions on website to identify any fraud payments</li>
  </ul>
+____
+
+## Features of the Secure_Transact:
+Weak Password Detection: We use NLP to identify and flag weak or commonly-used passwords, enhancing the security of user accounts.
+
+XXS Injection Detection: Our NLP models can recognize and block potential XXS (Cross-Site Scripting) injection attempts, preventing these common web vulnerabilities.
+
+Malicious URL Detection: The project includes a mechanism to identify malicious URLs, providing a layer of protection against harmful links.
+
+Phishing URL Detection: CyberGuard NLP can identify phishing URLs, helping users avoid deceptive websites.
